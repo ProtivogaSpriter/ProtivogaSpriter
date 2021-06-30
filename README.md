@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ProtivogaSpriter
-- 👀 I’m interested in spriting stuff
-- 🌱 I’m currently learning how to sprite stuff
-- 💞️ I’m looking to collaborate on sprites 
-- 📫 How to reach me: ProtivogaZ #4747 on Discord
+I'm pretty much always busy eatin beanz
+reach out to me if you have anything to say: ProtivogaZ#4747 on discord
 
 <!---
 ProtivogaSpriter/ProtivogaSpriter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
