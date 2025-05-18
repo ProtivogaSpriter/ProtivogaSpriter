@@ -17,6 +17,14 @@ hadnt updated this in a while huh
 >
 >1337 H4XX0R larper
 
+## what am i doing
+
+>terminal-based-visual vibeo game written in rust
+>
+>shoving smart(?) guy stuff into my cerebral cortex
+>
+>planning to assemble a chinesium computer for 4$ and host own website
+
 ## opinions (possibly ironic but not sure)
 
 >the distinction between compiled and interpreted languages must be destroyed in favor of writing everything in assembly  
