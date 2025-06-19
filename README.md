@@ -28,9 +28,7 @@ hadnt updated this in a while huh
 ## opinions (possibly ironic but not sure)
 
 >the distinction between compiled and interpreted languages must be destroyed in favor of writing everything in assembly  
->yes this includes websites  
->web assembly  
->yes it's real look it up  
+>yes this includes websites
 >
 >netscape failed spectacularly at their job i would have done better
 >
