@@ -3,7 +3,7 @@ hadnt updated this in a while huh
 
 ## about me apparently
 
->using the same box since 2018 (my sound chip died mail me a motherboard replacement)
+>using the same box since 2018
 >
 >computer enjoyer
 >
@@ -17,9 +17,21 @@ hadnt updated this in a while huh
 >
 >1337 H4XX0R larper
 
+## skillz
+
+>dropping prod like really hard
+>
+>pushing code that does not compile
+>
+>generating technical debt
+>
+>ideas guying
+
 ## what am i doing
 
 >terminal-based-visual vibeo game written in rust
+>
+>relevant to ^ a terminal based graphical/input framework (like ncurses but worse)
 >
 >shoving smart(?) guy stuff into my cerebral cortex
 >
@@ -32,7 +44,7 @@ hadnt updated this in a while huh
 >
 >netscape failed spectacularly at their job i would have done better
 >
->smartphones are bad (axiomatically) because you can't mod them as hard as a desktop pc
+>smartphones are bad (axiomatically) because their hardware is nonstandard all over and therefore ery hard to mod
 >
 >*"""ai"""* is a scourge on the human spirit  
 >who cares about the economy i think it's intrensically opposed to the concept of human creativity and therefore all mentions of a creatable intelligent entity must be erased from the noosphere
