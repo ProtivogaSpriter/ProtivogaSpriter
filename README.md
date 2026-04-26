@@ -3,7 +3,7 @@ hadnt updated this in a while huh
 
 ## about me apparently
 
->using the same box since 2018
+>i have 4 computers in a single network in my house if you count the laptop
 >
 >computer enjoyer
 >
@@ -29,13 +29,11 @@ hadnt updated this in a while huh
 
 ## what am i doing
 
->terminal-based-visual vibeo game written in rust
+>suffering
 >
->relevant to ^ a terminal based graphical/input framework (like ncurses but worse)
+>trying to learn
 >
->shoving smart(?) guy stuff into my cerebral cortex
->
->planning to assemble a chinesium computer for 4$ and host own website
+>looking for a job ARGHHHHHH
 
 ## opinions (possibly ironic but not sure)
 
@@ -44,7 +42,7 @@ hadnt updated this in a while huh
 >
 >netscape failed spectacularly at their job i would have done better
 >
->smartphones are bad (axiomatically) because their hardware is nonstandard all over and therefore ery hard to mod
+>smartphones are bad (axiomatically) because their hardware is fucklocked by the greedy corpos and only rare exceptions allow you the privelege to mod
 >
 >*"""ai"""* is a scourge on the human spirit  
 >who cares about the economy i think it's intrensically opposed to the concept of human creativity and therefore all mentions of a creatable intelligent entity must be erased from the noosphere
